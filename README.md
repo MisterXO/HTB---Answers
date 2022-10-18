@@ -1,2 +1,2 @@
-# HTB---Answers
+# HTB-Answers
 All HackTheBox answers

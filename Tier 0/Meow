@@ -1,0 +1,57 @@
+--------------------------------------------------------
+ /$$      /$$                                  
+| $$$    /$$$                                  
+| $$$$  /$$$$  /$$$$$$   /$$$$$$  /$$  /$$  /$$
+| $$ $$/$$ $$ /$$__  $$ /$$__  $$| $$ | $$ | $$
+| $$  $$$| $$| $$$$$$$$| $$  \ $$| $$ | $$ | $$
+| $$\  $ | $$| $$_____/| $$  | $$| $$ | $$ | $$
+| $$ \/  | $$|  $$$$$$$|  $$$$$$/|  $$$$$/$$$$/
+|__/     |__/ \_______/ \______/  \_____/\___/ 
+
+--------------------------------------------------------
+
+Q1: What does the acronym VM stand for?
+
+A: Virtual Machine
+
+
+Q2: What tool do we use to interact with the operating system in order to issue commands via the command line, 
+such as the one to start our VPN connection? It's also known as a console or shell.
+
+A: Terminal
+
+
+Q3: What service do we use to form our VPN connection into HTB labs?
+
+A: Openvpn
+
+
+Q4: What is the abbreviated name for a 'tunnel interface' in the output of your VPN boot-up sequence output?
+
+A: Tun
+
+
+Q5: What tool do we use to test our connection to the target with an ICMP echo request?
+
+A: Ping
+
+
+Q6: What is the name of the most common tool for finding open ports on a target?
+
+A: Nmap 
+
+
+Q7: What service do we identify on port 23/tcp during our scans?
+
+A: Telnet
+
+
+Q8: What username is able to log into the target over telnet with a blank password?
+
+A: Root 
+
+
+Q9: Submit root flag
+
+A: b40abdfe23665f766f9c61ecba8a4c19
+
